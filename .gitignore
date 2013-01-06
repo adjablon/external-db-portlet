@@ -1,4 +1,10 @@
+target/
 *.class
+
+#ignore Eclipse
+.classpath
+.project
+.settings/
 
 # Package Files #
 *.jar
